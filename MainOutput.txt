@@ -1,0 +1,31 @@
+------------------
+3
+4
+8
+13
+11
+14
+6
+9
+10
+5
+12
+16
+7
+17
+------------------
+Power consumed by Eelement 3 : 31.0
+Power consumed by Eelement 4 : 19.0
+Power consumed by Eelement 8 : 10.0
+Power consumed by Eelement 13 : 3.0
+Power consumed by Eelement 11 : 3.0
+Power consumed by Eelement 14 : 4.0
+Power consumed by Eelement 6 : 0.0
+Power consumed by Eelement 9 : 0.0
+Power consumed by Eelement 10 : 9.0
+Power consumed by Eelement 5 : 8.0
+Power consumed by Eelement 12 : 4.0
+Power consumed by Eelement 16 : 4.0
+Power consumed by Eelement 7 : 4.0
+Power consumed by Eelement 17 : 4.0
+Overload at Eelement 4
